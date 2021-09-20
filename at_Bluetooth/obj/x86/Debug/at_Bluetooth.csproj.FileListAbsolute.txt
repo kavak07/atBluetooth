@@ -1,0 +1,31 @@
+c:\users\acer\documents\visual studio 2010\Projects\at_Bluetooth\at_Bluetooth\bin\Debug\at_Bluetooth.exe
+c:\users\acer\documents\visual studio 2010\Projects\at_Bluetooth\at_Bluetooth\bin\Debug\at_Bluetooth.pdb
+c:\users\acer\documents\visual studio 2010\Projects\at_Bluetooth\at_Bluetooth\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2010\Projects\at_Bluetooth\at_Bluetooth\obj\x86\Debug\at_Bluetooth.Form1.resources
+c:\users\acer\documents\visual studio 2010\Projects\at_Bluetooth\at_Bluetooth\obj\x86\Debug\at_Bluetooth.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2010\Projects\at_Bluetooth\at_Bluetooth\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\acer\documents\visual studio 2010\Projects\at_Bluetooth\at_Bluetooth\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\acer\documents\visual studio 2010\Projects\at_Bluetooth\at_Bluetooth\obj\x86\Debug\at_Bluetooth.exe
+c:\users\acer\documents\visual studio 2010\Projects\at_Bluetooth\at_Bluetooth\obj\x86\Debug\at_Bluetooth.pdb
+c:\users\acer\documents\visual studio 2010\Projects\at_Bluetooth\at_Bluetooth\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Acer\Desktop\kızlar\at_Bluetooth\at_Bluetooth\obj\x86\Debug\at_Bluetooth.exe
+C:\Users\Acer\Desktop\kızlar\at_Bluetooth\at_Bluetooth\obj\x86\Debug\at_Bluetooth.pdb
+C:\Users\Acer\Desktop\kızlar\at_Bluetooth\at_Bluetooth\bin\Debug\at_Bluetooth.exe
+C:\Users\Acer\Desktop\kızlar\at_Bluetooth\at_Bluetooth\bin\Debug\at_Bluetooth.pdb
+C:\Users\Acer\Desktop\kızlar\at_Bluetooth\at_Bluetooth\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Acer\Desktop\kızlar\at_Bluetooth\at_Bluetooth\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\kızlar\at_Bluetooth\at_Bluetooth\obj\x86\Debug\at_Bluetooth.Form1.resources
+C:\Users\Acer\Desktop\kızlar\at_Bluetooth\at_Bluetooth\obj\x86\Debug\at_Bluetooth.Properties.Resources.resources
+C:\Users\Acer\Desktop\kızlar\at_Bluetooth\at_Bluetooth\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Acer\Desktop\kızlar\at_Bluetooth\at_Bluetooth\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Batch_File\kızlar\at_Bluetooth\at_Bluetooth\obj\x86\Debug\at_Bluetooth.exe
+D:\Batch_File\kızlar\at_Bluetooth\at_Bluetooth\obj\x86\Debug\at_Bluetooth.pdb
+C:\Users\Integral Pro\Desktop\at_Bluetooth\at_Bluetooth\obj\x86\Debug\at_Bluetooth.exe
+C:\Users\Integral Pro\Desktop\at_Bluetooth\at_Bluetooth\obj\x86\Debug\at_Bluetooth.pdb
+C:\Users\Integral Pro\Desktop\at_Bluetooth\at_Bluetooth\bin\Debug\at_Bluetooth.exe
+C:\Users\Integral Pro\Desktop\at_Bluetooth\at_Bluetooth\bin\Debug\at_Bluetooth.pdb
+C:\Users\Integral Pro\Desktop\at_Bluetooth\at_Bluetooth\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Integral Pro\Desktop\at_Bluetooth\at_Bluetooth\obj\x86\Debug\at_Bluetooth.csprojResolveAssemblyReference.cache
+C:\Users\Integral Pro\Desktop\at_Bluetooth\at_Bluetooth\obj\x86\Debug\at_Bluetooth.Form1.resources
+C:\Users\Integral Pro\Desktop\at_Bluetooth\at_Bluetooth\obj\x86\Debug\at_Bluetooth.Properties.Resources.resources
+C:\Users\Integral Pro\Desktop\at_Bluetooth\at_Bluetooth\obj\x86\Debug\at_Bluetooth.csproj.GenerateResource.Cache
